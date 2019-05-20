@@ -1,9 +1,9 @@
 
 # coding: utf-8
 
-# # Misson to Mars
+# # Mission to Mars
 
-# # Step 1 - Scraping
+# # WebScraping
 # -------
 # ## NASA Mars News
 # -------
